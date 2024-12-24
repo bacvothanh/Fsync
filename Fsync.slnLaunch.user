@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Fsync.Server\\Fsync.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Fsync.Client\\Fsync.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

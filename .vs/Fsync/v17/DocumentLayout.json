@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BacVo\\Work\\Sources\\Fsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF03BC-4B7A-490C-B32F-21B3C3BDCB53}|Fsync.Server\\Fsync.Server.csproj|c:\\bacvo\\work\\sources\\fsync\\fsync.server\\filesyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DF03BC-4B7A-490C-B32F-21B3C3BDCB53}|Fsync.Server\\Fsync.Server.csproj|solutionrelative:fsync.server\\filesyncserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F266-F55E-424D-A7C2-BDA08122445E}|Fsync.Client\\Fsync.Client.csproj|c:\\bacvo\\work\\sources\\fsync\\fsync.client\\filesyncclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F266-F55E-424D-A7C2-BDA08122445E}|Fsync.Client\\Fsync.Client.csproj|solutionrelative:fsync.client\\filesyncclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821714E-8E9E-43F1-ACA9-860837D531BA}|Fsync.File\\Fsync.File.csproj|c:\\bacvo\\work\\sources\\fsync\\fsync.file\\filesyncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821714E-8E9E-43F1-ACA9-860837D531BA}|Fsync.File\\Fsync.File.csproj|solutionrelative:fsync.file\\filesyncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF03BC-4B7A-490C-B32F-21B3C3BDCB53}|Fsync.Server\\Fsync.Server.csproj|c:\\bacvo\\work\\sources\\fsync\\fsync.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DF03BC-4B7A-490C-B32F-21B3C3BDCB53}|Fsync.Server\\Fsync.Server.csproj|solutionrelative:fsync.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F266-F55E-424D-A7C2-BDA08122445E}|Fsync.Client\\Fsync.Client.csproj|c:\\bacvo\\work\\sources\\fsync\\fsync.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F266-F55E-424D-A7C2-BDA08122445E}|Fsync.Client\\Fsync.Client.csproj|solutionrelative:fsync.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileSyncClient.cs",
+              "DocumentMoniker": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Client\\FileSyncClient.cs",
+              "RelativeDocumentMoniker": "Fsync.Client\\FileSyncClient.cs",
+              "ToolTip": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Client\\FileSyncClient.cs",
+              "RelativeToolTip": "Fsync.Client\\FileSyncClient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:10:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSyncServer.cs",
+              "DocumentMoniker": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Server\\FileSyncServer.cs",
+              "RelativeDocumentMoniker": "Fsync.Server\\FileSyncServer.cs",
+              "ToolTip": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Server\\FileSyncServer.cs",
+              "RelativeToolTip": "Fsync.Server\\FileSyncServer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:09:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Fsync.Client\\Program.cs",
+              "ToolTip": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Client\\Program.cs",
+              "RelativeToolTip": "Fsync.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:08:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Fsync.Server\\Program.cs",
+              "ToolTip": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.Server\\Program.cs",
+              "RelativeToolTip": "Fsync.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:08:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSyncManager.cs",
+              "DocumentMoniker": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.File\\FileSyncManager.cs",
+              "RelativeDocumentMoniker": "Fsync.File\\FileSyncManager.cs",
+              "ToolTip": "C:\\BacVo\\Work\\Sources\\Fsync\\Fsync.File\\FileSyncManager.cs",
+              "RelativeToolTip": "Fsync.File\\FileSyncManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:06:38.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

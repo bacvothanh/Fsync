@@ -1,0 +1,14 @@
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\bin\Debug\net8.0\Fsync.Server.exe
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\bin\Debug\net8.0\Fsync.Server.deps.json
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\bin\Debug\net8.0\Fsync.Server.runtimeconfig.json
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\bin\Debug\net8.0\Fsync.Server.dll
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\bin\Debug\net8.0\Fsync.Server.pdb
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.AssemblyInfoInputs.cache
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.AssemblyInfo.cs
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.csproj.CoreCompileInputs.cache
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.dll
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\refint\Fsync.Server.dll
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.pdb
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\Fsync.Server.genruntimeconfig.cache
+C:\BacVo\Work\Sources\Fsync\Fsync.Server\obj\Debug\net8.0\ref\Fsync.Server.dll
